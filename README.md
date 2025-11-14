@@ -7,7 +7,6 @@
 
 Try the live version here: [https://icollab-eta.vercel.app/](https://icollab-eta.vercel.app/)
 
-
 ## 🚀 Features
 
 - 🔐 Authentication using JWT + Google OAuth
